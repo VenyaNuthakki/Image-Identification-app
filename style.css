@@ -1,0 +1,46 @@
+body{
+    text-align: center;
+    font-family: 'Pattaya', sans-serif;
+    background-color: hotpink;
+}
+
+.header_div{
+    background-color: whitesmoke;
+    color: dodgerblue;
+}
+
+.header_div img{
+    width: 100px;
+}
+
+.main_div{
+    background-color: gold;
+    padding: 10px;
+    margin-top: 15px;
+    border: 3px dashed firebrick;
+}
+
+.main_div label{
+    background-color: lightcoral;
+    width: 300px;
+    padding: 10px;
+    margin-bottom: 10px;
+    font-size: 20px;
+    box-shadow: 5px 5px 18px white;
+}
+
+#camera{
+    width: 310px;
+    height: 300px;
+    border: 2px dashed forestgreen;
+    box-shadow: 5px 8px 6px white;
+}
+
+.main_div button{
+    width: 300px;
+    font-size: 20px;
+    border: 2px dashed lemonchiffon;
+    margin-top: 10px;
+    box-shadow: 5px 6px 7px white;
+    color: black;
+}
